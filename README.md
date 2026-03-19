@@ -86,8 +86,8 @@ g++ main.cpp src/RecommendationEngine.cpp -o app
 
 ## 🙋‍♂ About Me
 
-**Pilli Sasi Kaladhar**  
+**Konakandla Mukesh Goud**  
 B.Tech, IIT Patna  
 Aspiring Software Engineer  
-GitHub: https://github.com/Sasigit1704  
-LinkedIn: https://linkedin.com/in/pillisasikaladhar170404  
+GitHub: https://github.com/Muke1706
+LinkedIn: https://www.linkedin.com/in/mukesh-goud-konakandla-b48923263/
